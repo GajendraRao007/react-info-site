@@ -5,6 +5,9 @@
 body {
   margin: 0;
   font-family: Inter, sans-serif;
+  background-color: #282D35;
+  color: #FFFFFF;
+
 }
 
 nav {
@@ -34,4 +37,40 @@ nav {
 .nav--icon {
   height: 30px;
   margin-right: 7px;
+}
+
+
+.heading{
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Inter';
+  margin-left: 27px;
+}
+
+ul{
+ 
+
+}
+
+.maintxt{
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+li::marker{
+  width: 9.61px;
+height: 9.61px;
+  color: #61DAFB;
+}
+
+.txt{
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+main{
+  background-image: url(C:\Users\rkapi\OneDrive\Desktop\react-info-site\img\imgbck.png);
+  background-repeat: no-repeat;
+  background-position: right 
+
 }
